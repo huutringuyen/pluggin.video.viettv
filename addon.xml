@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+	id="plugin.video.viettv"
+	version="0.0.1"
+	name="Vietnamese Live TV"
+	provider-name="Tri Nguyen">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="viettv.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<language>en vi</language>
+		<website>http://dankemo.wordpresscom</website>
+		<source>https://github.com/tringuyenhuu/viettv</source>
+		<summary lang="en">Vietnamese Live TV</summary>
+		<summary lang="vi">Vietnamese Live TV</summary>
+		<description lang="en">This plugin allows you to watch live TV channels or listen to radio stations in Viet Nam or from oversea providers straight from the XBMC interface, </description>
+		<description lang="vi">Xem trực tiếp các kênh truyền hình và các đài phát thanh từ Việt Nam và hải ngoại. </description>
+		<disclaimer lang="en">All live streams are pulled from online providers and in no way represent my views or opinions. </disclaimer>
+		<disclaimer lang="vi">Tất cả live streams được tải về từ các nhà cung cấp dịch vụ. </disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	</extension>
+</addon>

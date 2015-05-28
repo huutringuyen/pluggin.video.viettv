@@ -1,0 +1,73 @@
+{
+    "timestamp":"1418556019",
+    "sources": {
+        "hdplus": {
+            "url": "http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/",
+            "swfurl": "",
+            "pageurl": "",
+            "token": "",
+            "app": ""
+        }       
+    },
+    "directories": {
+        "root": {
+            "title": "root",
+            "logo":  "",
+            "desc": "root menu",
+            "content": [
+            {"type":"chn","id":"vtv1"},
+            {"type":"chn","id":"vtv2"},
+            {"type":"chn","id":"vtv3hd"},
+            {"type":"chn","id":"vtv6"},
+            {"type":"chn","id":"vtv6hd"},
+            {"type":"chn","id":"tttvhd"},
+            {"type":"chn","id":"bdtvhd"}
+            ]
+        }
+        
+    },
+    "channels": {
+        "vtv1": {
+            "title": "VTV1",
+            "logo": "vtv1.png",
+            "desc": "Thông tin tổng hợp",
+            "url": "http://hplus.com.vn/vi/content/detail/vtv-1-2128.html"
+        },
+        "vtv2": {
+            "title": "VTV2",
+            "logo": "vtv2.png",
+            "desc": "Khoa học, Giáo dục",
+            "url": "http://hplus.com.vn/vi/content/detail/vtv-2-2127.html"
+        },
+        "vtv3hd": {
+            "title": "VTV3 HD",
+            "logo": "vtv3.png",
+            "desc": "Thể thao, Giải trí, Thông tin Kinh tế",
+            "url": "http://hplus.com.vn/vi/content/detail/vtv3-hd-2130.html"
+        },
+        "vtv6": {
+            "title": "VTV6",
+            "logo": "vtv6.png",
+            "desc": "Kênh cho Thanh, thiếu niên",
+            "url": "http://hplus.com.vn/vi/content/detail/vtv6-hd-2129.html"
+        },
+       "vtv6hd": {
+            "title": "VTV6 HD",
+            "logo": "vtv6hd.png",
+            "desc": "Kênh cho Thanh, thiếu niên",
+            "url": "http://hplus.com.vn/vi/content/detail/vtv6-hd-2129.html"
+        },
+        "tttvhd": {
+            "title": "The Thao TV",
+            "logo": "tttvhd.png",
+            "desc": "The Thao TV HD",
+            "url": "http://hplus.com.vn/vi/content/detail/the-thao-tv-hd-2133.html"
+        },
+        "bdtvhd": {
+            "title": "BongDaTV",
+            "logo": "bdtvhd.png",
+            "desc": "BongDaTV HD",
+            "url": "http://hplus.com.vn/vi/content/detail/bong-da-tv-hd-2131.html"
+        }
+    }
+}
